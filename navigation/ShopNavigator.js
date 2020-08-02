@@ -1,12 +1,14 @@
 import React from "react";
 import {
   // createStackNavigator,
-  createDrawerNavigator,
+  // createDrawerNavigator,
   createAppContainer
 } from "react-navigation";
 import { Platform } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
 import { createStackNavigator } from "react-navigation-stack";
+// import { createBottomTabNavigator } from "react-navigation-tabs";
+import { createDrawerNavigator } from "react-navigation-drawer";
 
 import ProductsOverviewScreen from "../screens/shop/ProductsOverviewScreen";
 import ProductDetailScreen from "../screens/shop/ProductDetailScreen";
