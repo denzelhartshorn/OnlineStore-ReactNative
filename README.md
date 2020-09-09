@@ -2,7 +2,7 @@
 
 OnlineStore-ReactNative is an online marketplace that allows you to buy sell and browse.  It includes multiple screens to view products as well as an Admin page which allows you to be the buyer to the seller with add/ delete product functions.  It was built with React Native, Javascript, and CSS. It is compatible with Andriod and iOS and incorporates different screens, multiple components, styling and navigation.
 
-Hosted on gh-pages.
+Hosted on gh-pages
 
 https://denzelhartshorn.github.io/OnlineStore-ReactNative/
 
